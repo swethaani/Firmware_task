@@ -1,4 +1,4 @@
-'# Project title - UART Communication with MCU using EEPROM '
+# Project title - UART Communication with MCU using EEPROM 
 
 This project demonstrates bidirectional communication between a PC and a microcontroller unit (MCU) using UART (Universal Asynchronous Receiver-Transmitter) protocol. The MCU used in this project is an ATmega328 U microcontroller programmed with Embedded C++. The project involves storing data received from the PC into the MCU's EEPROM (Electrically Erasable Programmable Read-Only Memory) and sending the stored data back to the PC.
 
@@ -10,8 +10,8 @@ This project demonstrates bidirectional communication between a PC and a microco
 
 ##Requirements
 
-**Microcontroller Board**: Any board featuring the ATmega328 microcontroller.
-**USB-to-Serial Cable**: Required to establish communication between the microcontroller board and the PC.
+Microcontroller Board: Any board featuring the ATmega328 microcontroller.
+USB-to-Serial Cable: Required to establish communication between the microcontroller board and the PC.
 **Python Version 3.7**: Ensure that Python 3.7 or later version is installed on your system.
 **PySerial Library**: Install the PySerial library to facilitate serial communication between the PC and the microcontroller board
 
